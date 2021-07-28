@@ -1,10 +1,10 @@
 <?php
 
 class WaterBottle {
-    private $material;
-    private $litres;
-    private $status;
-    private $temp;
+    private $material; //string
+    private $litres;   //int
+    private $status;   //string
+    private $temp;     //string
 
    function __construct () {
        $this->material = "plastic";
