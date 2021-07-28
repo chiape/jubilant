@@ -2,6 +2,6 @@
 
 $velocity;
 $stops;
-$break;
+$break = 0;
 
 ?>
