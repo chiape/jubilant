@@ -1,5 +1,7 @@
 <?php
 
 $velocity;
+$stops;
+$break;
 
 ?>
