@@ -25,7 +25,7 @@ class WaterBottle {
        return $this->litres;
    }
 
-   private function setLitres($l) {
+   public function setLitres($l) {
        $this->litres = $l;
    }
 
